@@ -1,6 +1,16 @@
 # Chatapp
 
 This is the chat app created in futter + firebase
+This chat application has following features: 
+- Login using gmail
+- send and receive message (image/text/emoji)
+- push notification
+- update profile /view profile
+- last seen 
+- delete/ copy message
+It uses firebase as backend. It uses firebase messaging, cloud firestore for storing, firebase storage etc . 
+
+Still there are few functionality  to be added in future like voice/video call which I will work in future. Till then my basic application is ready.
 
 ## Output
 
